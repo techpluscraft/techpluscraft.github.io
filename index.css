@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://media.istockphoto.com/photos/black-paper-texture-background-with-spotlight-picture-id175413535?b=1&k=20&m=175413535&s=170667a&w=0&h=Ezl5v26kkWsWGd6RqpJIwIdnNDVKoOuEAd1gdwtGE2I=);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+  position: relative;
+  text-align: center;
+}
